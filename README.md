@@ -1,0 +1,1 @@
+This project is an attempt to replicate the google homepage. It is a test of using developer tools, and an understanding of HTML and CSS.

@@ -1,0 +1,47 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding-top: 20%;
+}
+
+.foogle-logo {
+    display: block;
+    margin:  0 auto;
+}
+
+
+.search-bar {
+    display: flex;
+    border: 2px solid gray;
+    border-radius: 25px;
+    justify-content: center;
+    padding: 5px 20px;
+}
+
+.search-bar:hover {
+    box-shadow: 0 5px 5px rgba(59, 59, 59, 0.1);
+}
+
+.search-icon {
+    color: gray;
+    margin: auto;
+    user-select: none;
+
+}
+
+.search-microphone {
+    border-radius: 100%;
+    margin: auto;
+
+}
+
+.search-input {
+    width: 100%;
+    height: auto;
+    border: 0px;
+    outline: none;
+}
+
